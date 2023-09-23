@@ -1,4 +1,4 @@
-# LTSC-Add-MicrosoftStorev2
+# LTSC-Add-MicrosoftStore-v2
 # Add Store to Windows 10 Enterprise LTSC  
 For Windows 10 Enterprise LTSC 2019/2021   
 ## To install, run Add-Store.cmd as Administrator   
